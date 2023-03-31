@@ -1,2 +1,1 @@
-# Prepcourse_Henry
-Este es un repositorio de prueba del modulo 2
+Este proyecto es una prueba para crear un repositorio y clonarlo en mi terminal
